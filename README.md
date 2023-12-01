@@ -25,4 +25,6 @@ The project has the objective in the second version to calculate the age estimat
 - IPP
 - OpenVino
 
-[![image](https://github.com/cabelo/rmnude/assets/675645/44c57c6b-4689-467c-8c13-6fde50a8d4df)](https://vimeo.com/385597158)
+![image](https://github.com/cabelo/rmnude/assets/675645/47cca2ee-3f26-49b1-a117-141ab926cb10)
+
+[![image](https://github.com/cabelo/rmnude/assets/675645/4eec1838-09fb-4cba-888e-86fec40782b0)](https://vimeo.com/385597158)
